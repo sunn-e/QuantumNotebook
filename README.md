@@ -9,3 +9,5 @@ A jupyter notebook with qiskit and IBMQ quantum computers
 ## create a new notebook with python 3
 ## Follow my notebook block by block
 ## Voila,you are running quantum computer.
+
+### Visit https://quantum-computing.ibm.com/account for more info
